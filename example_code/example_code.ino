@@ -18,7 +18,7 @@
  
   Author: Midas Gossye (Whadda/Velleman)
   Date: 15/03/2021
-  URL: https://github.com/WhaddaMakers/Micro_PIR_sensor
+  URL: https://github.com/WhaddaMakers/SSR_module
 */
 
 
